@@ -1,0 +1,87 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 578.38305001469371,
+            "y": -4.8446979598452913
+          },
+          "nodeIndex": "customer",
+          "nodeLineageTag": "052099c6-fd21-4ef0-84da-1571ceb4bc3e",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10,
+            "y": 49.140412819754644
+          },
+          "nodeIndex": "Product",
+          "nodeLineageTag": "c52622ac-384b-4f20-9b54-8dc2ee73c796",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 294.20156119318523,
+            "y": -10
+          },
+          "nodeIndex": "snowball_output",
+          "nodeLineageTag": "fb68e8c2-8afd-445d-a8f0-136330572425",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 599.38305001469371,
+            "y": 340
+          },
+          "nodeIndex": "Calendar",
+          "nodeLineageTag": "e08e81f6-1d3c-4b3d-9902-0cfb2f460cf1",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 873.38305001469371,
+            "y": 125
+          },
+          "nodeIndex": "mk_snowball",
+          "nodeLineageTag": "60d2868b-1e74-45b6-bb62-066bc10bae39",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
